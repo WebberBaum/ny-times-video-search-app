@@ -65,7 +65,7 @@ function displayResults(json) {
   if (articles.length === 10) {
     nav.style.display = "block";
   } else {
-    nav.style.disdplay = "none";
+    nav.style.display = "none";
   }
 
   // handling for no results
